@@ -68,8 +68,8 @@ $$
 
 **Random Function Representation:** 
 - Select a node $v$ uniformly at random.
-- Choose a uniform random variable $u$ the interval $[0,1]$.
-- If $u < P^-$, then the spin of node $i$ is set to $-1$, otherwise it is set to $+1$. This forms a monotone random function representation.
+- Choose $θ$ uniformly at random from the interval $[0,1]$.
+- If $θ < P^-$, then the spin of node $i$ is set to $-1$, otherwise it is set to $+1$. This forms a monotone random function representation.
 
 ```
 
